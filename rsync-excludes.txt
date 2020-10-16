@@ -1,0 +1,9 @@
+rsync-excludes.txt
+__pycache__
+*.pyc
+.env
+.venv
+Pipfile.lock
+deploy
+sync-*
+logs
